@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/DP83848C:DP83848C",
+  "name": "DP83848C",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/DP83848C.kicad_sym",
+  "description": "MII/RMII Single 10/100Mbps Ethernet Physical Layer Transceiver, LQFP-48",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/dp83848c.pdf",
+  "keywords": "Ethernet PHY MII RMII 10/100Mpbs",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/DP83848C/",
+  "part_path": "parts/DP83848C",
+  "symbol_file": "parts/DP83848C/DP83848C.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.947Z"
+}

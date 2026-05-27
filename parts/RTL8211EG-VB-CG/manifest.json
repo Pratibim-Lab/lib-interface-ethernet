@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/RTL8211EG-VB-CG:RTL8211EG-VB-CG",
+  "name": "RTL8211EG-VB-CG",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/RTL8211EG-VB-CG.kicad_sym",
+  "description": "10/100/1000Mbps Ethernet Transceiver with RGMII/GMII/MII/RMII Interface, QFN-64",
+  "datasheet": "https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf",
+  "keywords": "Ethernet Phy Gigabit",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/RTL8211EG-VB-CG/",
+  "part_path": "parts/RTL8211EG-VB-CG",
+  "symbol_file": "parts/RTL8211EG-VB-CG/RTL8211EG-VB-CG.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.995Z"
+}

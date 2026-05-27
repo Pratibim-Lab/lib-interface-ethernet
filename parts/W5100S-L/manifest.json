@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/W5100S-L:W5100S-L",
+  "name": "W5100S-L",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/W5100S-L.kicad_sym",
+  "description": "10/100Mb Ethernet controller with TCP/IP stack, LQFP-48",
+  "datasheet": "https://docs.wiznet.io/img/products/w5100s/w5100s-ds-v128e.pdf",
+  "keywords": "Wiznet",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/W5100S-L/",
+  "part_path": "parts/W5100S-L",
+  "symbol_file": "parts/W5100S-L/W5100S-L.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:52.001Z"
+}

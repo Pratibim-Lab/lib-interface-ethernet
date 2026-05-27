@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/DP83825I:DP83825I",
+  "name": "DP83825I",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/DP83825I.kicad_sym",
+  "description": "RMII Single 10/100Mbps Ethernet Physical Layer Transceiver, up to 150m reach, Energy-Efficient-Ethernet, Cable Diagnostics, QFN-24",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/dp83825i.pdf",
+  "keywords": "Ethernet 802.3 PHY Texas EEE extended TDR",
+  "footprint": "Package_DFN_QFN:Texas_RMQ0024A_WQFN-24-1EP_3x3mm_P0.4mm_EP1.9x1.9mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/DP83825I/",
+  "part_path": "parts/DP83825I",
+  "symbol_file": "parts/DP83825I/DP83825I.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.945Z"
+}

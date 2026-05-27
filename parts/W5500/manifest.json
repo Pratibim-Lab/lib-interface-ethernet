@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/W5500:W5500",
+  "name": "W5500",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/W5500.kicad_sym",
+  "description": "10/100Mb SPI Ethernet controller with TCP/IP stack, LQFP-48",
+  "datasheet": "http://wizwiki.net/wiki/lib/exe/fetch.php/products:w5500:w5500_ds_v109e.pdf",
+  "keywords": "WIZnet Ethernet controller",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/W5500/",
+  "part_path": "parts/W5500",
+  "symbol_file": "parts/W5500/W5500.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:52.004Z"
+}

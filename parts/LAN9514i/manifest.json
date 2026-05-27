@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/LAN9514i:LAN9514i",
+  "name": "LAN9514i",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/LAN9514i.kicad_sym",
+  "description": "Four USB 2.0 hub with an integrated 10/100 Ethernet controller (-40° to 85°C), QFN-48",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/00002306A.pdf",
+  "keywords": "USB HUB Ethernet 10/100",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm",
+  "extends": "LAN9514",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/LAN9514i/",
+  "part_path": "parts/LAN9514i",
+  "symbol_file": "parts/LAN9514i/LAN9514i.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.994Z"
+}

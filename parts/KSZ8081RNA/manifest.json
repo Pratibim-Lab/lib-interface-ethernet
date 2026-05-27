@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/KSZ8081RNA:KSZ8081RNA",
+  "name": "KSZ8081RNA",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/KSZ8081RNA.kicad_sym",
+  "description": "10BASE-T/100BASE-TX PHY with RMII Support, 25 MHz input clock/50 MHz output, QFN-24",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/00002199A.pdf",
+  "keywords": "ETH PHY RMII",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/KSZ8081RNA/",
+  "part_path": "parts/KSZ8081RNA",
+  "symbol_file": "parts/KSZ8081RNA/KSZ8081RNA.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.966Z"
+}

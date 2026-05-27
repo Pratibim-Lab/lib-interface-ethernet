@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/W5100:W5100",
+  "name": "W5100",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/W5100.kicad_sym",
+  "description": "10/100Mb Ethernet controller with TCP/IP stack, LQFP-80",
+  "datasheet": "http://www.wiznet.io/wp-content/uploads/wiznethome/Chip/W5100/Document/W5100_Datasheet_v1.2.7.pdf",
+  "keywords": "Wiznet Ethernet controller",
+  "footprint": "Package_QFP:LQFP-80_10x10mm_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/W5100/",
+  "part_path": "parts/W5100",
+  "symbol_file": "parts/W5100/W5100.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.999Z"
+}

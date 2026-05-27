@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/ENC28J60x-SP:ENC28J60x-SP",
+  "name": "ENC28J60x-SP",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/ENC28J60x-SP.kicad_sym",
+  "description": "ENC28J60 Single Chip Ethernet Interface, DIP-28",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/39662e.pdf",
+  "keywords": "ENC Ethernet",
+  "footprint": "Package_DIP:DIP-28_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/ENC28J60x-SP/",
+  "part_path": "parts/ENC28J60x-SP",
+  "symbol_file": "parts/ENC28J60x-SP/ENC28J60x-SP.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.957Z"
+}

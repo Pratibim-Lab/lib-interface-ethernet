@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/KSZ9563RNX:KSZ9563RNX",
+  "name": "KSZ9563RNX",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/KSZ9563RNX.kicad_sym",
+  "description": "3-Port Gigabit Ethernet Switch with RGMII/MII/RMII Interface and IEEE 1588v2, QFN-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ9563R-Data-Sheet-DS00002419C.pdf",
+  "keywords": "Gigabit Ethernet Switch RGMII MII RMII ieee1588v2",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_8x8mm_P0.4mm_EP6.5x6.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/KSZ9563RNX/",
+  "part_path": "parts/KSZ9563RNX",
+  "symbol_file": "parts/KSZ9563RNX/KSZ9563RNX.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.971Z"
+}

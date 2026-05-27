@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/KSZ8081MLX:KSZ8081MLX",
+  "name": "KSZ8081MLX",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/KSZ8081MLX.kicad_sym",
+  "description": "10BASE-T/100BASE-TX PHY with RMII Support, 25 MHz input clock, LQFP-48",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ8081MLX.pdf",
+  "keywords": "ETH PHY RMII MII",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/KSZ8081MLX/",
+  "part_path": "parts/KSZ8081MLX",
+  "symbol_file": "parts/KSZ8081MLX/KSZ8081MLX.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.964Z"
+}

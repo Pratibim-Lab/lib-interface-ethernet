@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/WGI210AT:WGI210AT",
+  "name": "WGI210AT",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/WGI210AT.kicad_sym",
+  "description": "10/100/1000Mbps Ethernet transceiver with GMII/Serdes/PCIe interface, QFN-64",
+  "datasheet": "http://www.intel.com/content/www/us/en/ethernet-controllers/i210-ethernet-controller-datasheet.html",
+  "keywords": "Gigabit ethernet PHY PCIe",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP3.4x3.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/WGI210AT/",
+  "part_path": "parts/WGI210AT",
+  "symbol_file": "parts/WGI210AT/WGI210AT.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:52.009Z"
+}

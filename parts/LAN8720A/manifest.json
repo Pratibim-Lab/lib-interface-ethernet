@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/LAN8720A:LAN8720A",
+  "name": "LAN8720A",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/LAN8720A.kicad_sym",
+  "description": "LAN8720 Ethernet PHY with RMII interface, QFN-24",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf",
+  "keywords": "ETH PHY RMII",
+  "footprint": "Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/LAN8720A/",
+  "part_path": "parts/LAN8720A",
+  "symbol_file": "parts/LAN8720A/LAN8720A.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.978Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/LAN9303i:LAN9303i",
+  "name": "LAN9303i",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/LAN9303i.kicad_sym",
+  "description": "3-port managed Ethernet switch with dual PHY and RMII interface, QFN-56, industrial version",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/9303.pdf",
+  "keywords": "ETH PHY RMII switch industrial",
+  "footprint": "Package_DFN_QFN:QFN-56-1EP_8x8mm_P0.5mm_EP5.9x5.9mm_ThermalVias",
+  "extends": "LAN9303",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/LAN9303i/",
+  "part_path": "parts/LAN9303i",
+  "symbol_file": "parts/LAN9303i/LAN9303i.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.983Z"
+}

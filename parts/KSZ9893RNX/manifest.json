@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/KSZ9893RNX:KSZ9893RNX",
+  "name": "KSZ9893RNX",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/KSZ9893RNX.kicad_sym",
+  "description": "3-Port Gigabit Ethernet Switch with RGMII/MII/RMII Interface, QFN-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ9893R-Data-Sheet-DS00002420C.pdf",
+  "keywords": "Gigabit Ethernet Switch RGMII MII RMII",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_8x8mm_P0.4mm_EP6.5x6.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/KSZ9893RNX/",
+  "part_path": "parts/KSZ9893RNX",
+  "symbol_file": "parts/KSZ9893RNX/KSZ9893RNX.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.973Z"
+}

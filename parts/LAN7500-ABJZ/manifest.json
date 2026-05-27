@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/LAN7500-ABJZ:LAN7500-ABJZ",
+  "name": "LAN7500-ABJZ",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/LAN7500-ABJZ.kicad_sym",
+  "description": "Hi-Speed USB 2.0 to 10/100/1000 Ethernet Controller, QFN-56",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/00001734B.pdf",
+  "keywords": "USB Ethernet 10/100/1000",
+  "footprint": "Package_DFN_QFN:QFN-56-1EP_8x8mm_P0.5mm_EP5.9x5.9mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/LAN7500-ABJZ/",
+  "part_path": "parts/LAN7500-ABJZ",
+  "symbol_file": "parts/LAN7500-ABJZ/LAN7500-ABJZ.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.975Z"
+}

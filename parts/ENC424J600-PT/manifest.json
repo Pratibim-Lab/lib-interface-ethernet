@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/ENC424J600-PT:ENC424J600-PT",
+  "name": "ENC424J600-PT",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/ENC424J600-PT.kicad_sym",
+  "description": "Stand-Alone 10/100 Ethernet Controller with SPI or Parallel Interface, TQFP-44",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39935c.pdf",
+  "keywords": "ENC Ethernet",
+  "footprint": "Package_QFP:TQFP-44_10x10mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/ENC424J600-PT/",
+  "part_path": "parts/ENC424J600-PT",
+  "symbol_file": "parts/ENC424J600-PT/ENC424J600-PT.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.963Z"
+}

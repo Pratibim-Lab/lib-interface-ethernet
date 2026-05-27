@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/ENC28J60x-ML:ENC28J60x-ML",
+  "name": "ENC28J60x-ML",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/ENC28J60x-ML.kicad_sym",
+  "description": "ENC28J60 Single Chip Ethernet Interface,QFN-28",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/39662e.pdf",
+  "keywords": "ENC Ethernet",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/ENC28J60x-ML/",
+  "part_path": "parts/ENC28J60x-ML",
+  "symbol_file": "parts/ENC28J60x-ML/ENC28J60x-ML.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.953Z"
+}

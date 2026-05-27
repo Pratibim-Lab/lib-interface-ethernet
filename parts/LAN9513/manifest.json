@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/LAN9513:LAN9513",
+  "name": "LAN9513",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/LAN9513.kicad_sym",
+  "description": "Three USB 2.0 hub with an integrated 10/100 Ethernet controller (0°C to +70°C), QFN-48",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/00002305A.pdf",
+  "keywords": "USB HUB Ethernet 10/100",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/LAN9513/",
+  "part_path": "parts/LAN9513",
+  "symbol_file": "parts/LAN9513/LAN9513.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.989Z"
+}

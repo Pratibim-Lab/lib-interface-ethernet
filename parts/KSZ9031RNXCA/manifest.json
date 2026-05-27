@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/KSZ9031RNXCA:KSZ9031RNXCA",
+  "name": "KSZ9031RNXCA",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/KSZ9031RNXCA.kicad_sym",
+  "description": "10/100/1000Mbps Ethernet Transceiver with RGMII Interface, QFN-48",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/00002117C.pdf",
+  "keywords": "ETHERNET PHY RGMII WOL IEEE 802.3 MICROCHIP",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/KSZ9031RNXCA/",
+  "part_path": "parts/KSZ9031RNXCA",
+  "symbol_file": "parts/KSZ9031RNXCA/KSZ9031RNXCA.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.970Z"
+}

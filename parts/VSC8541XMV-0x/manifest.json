@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Ethernet/VSC8541XMV-0x:VSC8541XMV-0x",
+  "name": "VSC8541XMV-0x",
+  "library": "Interface_Ethernet",
+  "file": "Interface_Ethernet.kicad_symdir/VSC8541XMV-0x.kicad_sym",
+  "description": "Single Port Gigabit Ethernet, GMII/RGMII/MII/RMII Interfaces, QFN-68",
+  "datasheet": "https://ethernet.microsemi.com/products/download.php?fid=7978&number=vsc8541",
+  "keywords": "Gigabit Ethernet PHY GMII RGMII MII RMII",
+  "footprint": "Package_DFN_QFN:QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-ethernet@master/parts/VSC8541XMV-0x/",
+  "part_path": "parts/VSC8541XMV-0x",
+  "symbol_file": "parts/VSC8541XMV-0x/VSC8541XMV-0x.kicad_sym",
+  "source_library": "Interface_Ethernet.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:51.997Z"
+}
